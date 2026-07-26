@@ -198,18 +198,27 @@ The following screenshots showcase the successful deployment and configuration o
 
 ## Deployment Gallery
 
-| Component | Screenshot |
-|----------|------------|
-| VPC | images/vpc.png |
-| Subnets | images/subnets.png |
-| Internet Gateway | images/internet-gateway.png |
-| NAT Gateway | images/nat-gateway.png |
-| Route Tables | images/route-tables.png |
-| EC2 Instances | images/ec2-instances.png |
-| Security Groups | images/security-groups.png |
-| Amazon RDS | images/rds.png |
-| WordPress Dashboard | images/wordpress-dashboard.png |
-| Live Website | images/live-website.png |
+### VPC
+![VPC](images/vpc.png)
+
+### Subnets
+![Subnets](images/subnets.png)
+
+### EC2 Instances
+![EC2 Instances](images/ec2-instances.png)
+
+### Security Groups
+![Security Groups](images/security-groups.png)
+
+### Amazon RDS
+![Amazon RDS](images/rds.png)
+
+### WordPress Dashboard
+![WordPress Dashboard](images/wordpress-dashboard.png)
+
+### Live Website
+![Live Website](images/live-website.png)
+
 ## 🔒 Security Architecture
 
 Security was a key consideration throughout the deployment of this architecture.
