@@ -45,12 +45,13 @@ The application follows a **three-tier architecture**, where the presentation, a
 <p align="center">
   <img src="images/resource-map.png" alt="AWS Resource Map" width="900">
 </p>
----
 ## 🎥 Project Demo
 
-Click the image below to watch the complete deployment walkthrough.
+Watch the complete deployment walkthrough:
 
 [![Project Demo](images/live-website.png)](https://youtu.be/BjtJ0YkK2k0)
+
+---
 ### Architecture Overview
 
 The solution is deployed inside a **custom Amazon VPC** and consists of three logical tiers:
