@@ -4,6 +4,7 @@
 - [Project Overview](#-project-overview)
 - [Project Highlights](#-project-highlights)
 - [Architecture](#️-architecture)
+- [Project Demo](#-project-demo)
 - [Tech Stack](#️-tech-stack)
 - [Deployment Guide](#-deployment-guide)
 - [Deployment Screenshots](#-deployment-screenshots)
@@ -194,10 +195,6 @@ Validated the deployment by:
 - Validating secure communication between all application tiers.
 
 ---
-
-## 📸 Deployment Screenshots
-
-The following screenshots showcase the successful deployment and configuration of the AWS three-tier architecture.
 
 ## Deployment Gallery
 
