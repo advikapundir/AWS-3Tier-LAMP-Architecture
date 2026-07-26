@@ -32,9 +32,6 @@ This project demonstrates the design and deployment of a secure, scalable, and m
 
 The application follows a **three-tier architecture**, where the presentation, application, and database layers are deployed independently to improve security, scalability, and maintainability.
 
-## 🏗️ Architecture
-
-The application follows a **three-tier architecture**, where the presentation, application, and database layers are deployed independently to improve security, scalability, and maintainability.
 
 ### Architecture Diagram
 
@@ -49,7 +46,11 @@ The application follows a **three-tier architecture**, where the presentation, a
   <img src="images/resource-map.png" alt="AWS Resource Map" width="900">
 </p>
 ---
+## 🎥 Project Demo
 
+Click the image below to watch the complete deployment walkthrough.
+
+[![Project Demo](images/live-website.png)](https://youtu.be/BjtJ0YkK2k0)
 ### Architecture Overview
 
 The solution is deployed inside a **custom Amazon VPC** and consists of three logical tiers:
