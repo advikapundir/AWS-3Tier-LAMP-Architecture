@@ -45,7 +45,8 @@ The application follows a **three-tier architecture**, where the presentation, a
 <p align="center">
   <img src="images/resource-map.png" alt="AWS Resource Map" width="900">
 </p>
-## 🎥 Project Demo
+
+### 🎥 Project Demo
 
 Watch the complete deployment walkthrough:
 
