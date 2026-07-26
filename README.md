@@ -38,18 +38,15 @@ The application follows a **three-tier architecture**, where the presentation, a
 
 ### Architecture Diagram
 
-> *Insert your architecture diagram here.*
-
 <p align="center">
   <img src="images/architecture-diagram.png" alt="AWS 3-Tier Architecture" width="900">
 </p>
 
 ### AWS Resource Map
 
-> *Insert your AWS VPC Resource Map screenshot here.*
 
 <p align="center">
-  <img src="images/aws-resource-map.png" alt="AWS Resource Map" width="900">
+  <img src="images/resource-map.png" alt="AWS Resource Map" width="900">
 </p>
 ---
 
