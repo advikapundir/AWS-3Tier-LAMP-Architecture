@@ -196,15 +196,20 @@ Validated the deployment by:
 
 The following screenshots showcase the successful deployment and configuration of the AWS three-tier architecture.
 
-| Screenshot | Description |
-|------------|-------------|
-| EC2 Instances | Web Server and Application Server deployed on Amazon EC2. |
-| Security Groups | Network access rules configured between application tiers. |
-| Amazon RDS | Managed MySQL database deployed in a private subnet. |
-| AWS Resource Map | Custom VPC architecture showing networking components. |
-| Live Website | Successfully deployed WordPress application accessible through the Web Server. |
-| WordPress Dashboard | Administrative interface for managing the deployed application. |
+## Deployment Gallery
 
+| Component | Screenshot |
+|----------|------------|
+| VPC | images/vpc.png |
+| Subnets | images/subnets.png |
+| Internet Gateway | images/internet-gateway.png |
+| NAT Gateway | images/nat-gateway.png |
+| Route Tables | images/route-tables.png |
+| EC2 Instances | images/ec2-instances.png |
+| Security Groups | images/security-groups.png |
+| Amazon RDS | images/rds.png |
+| WordPress Dashboard | images/wordpress-dashboard.png |
+| Live Website | images/live-website.png |
 ## 🔒 Security Architecture
 
 Security was a key consideration throughout the deployment of this architecture.
